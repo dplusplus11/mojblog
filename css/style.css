@@ -1,0 +1,114 @@
+
+
+body{ font-family: "Raleway", sans-serif;	 
+}
+
+i {
+	
+	margin-right: 4px !important;
+}
+.gornji.container{
+	width: 900px !important;
+}
+div .item, div a{
+	font-weight: lighter !important;
+	font-size: .95em;
+}
+div.link{
+	margin-top: 10px;
+}
+
+.container.main{
+	margin-top: 6em !important;
+}
+#pocetni{
+	margin-top: 10em !important;
+}
+hr{ 
+	border: 0; 
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); 
+	margin: 30px auto;
+}
+hr.style-two{
+	 border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+h2.head, .huge.header, .ui.items > .item > .content a.large.header, .ui.items > .item > .content  a.medium.header,  .small.dividing{
+	font-family: "Neucha";
+	letter-spacing: .1em;
+	text-transform: uppercase;
+	color: #555;
+}
+.ui.items > .item > .content a.large.header:hover ,.ui.items > .item > .content a.medium.header:hover{
+	color: #a0a0a0;
+}
+.huge.header{
+	text-align: center !important;
+}
+
+h4.subheader{
+ 	 font-family: "EB Garamond"  ;
+ 	 font-weight: lighter;
+ }
+h3{
+ 	color: #db3334;
+ }
+
+ .mini.teal{
+ 	margin-top: 10px;
+ }
+
+.danger{
+  	color: #db3334;
+  	font-size:.9em;
+  	font-weight: bold;
+}
+.success{
+  	color: darkseagreen;
+  	font-size:.9em;
+  	font-weight: bold;
+}
+.ui.menu.fixed{
+	height: 45px !important;
+}
+.ui.menu .item::before{
+	width: 0;
+}
+.content:{
+	margin: 30px auto;
+}
+.description{
+	text-align: justify;
+}
+iframe{
+	height: 300px !important;
+}
+
+b{
+	display: none;
+}
+p.horizontal.divider{
+	font-size: .75em;
+	font-weight: lighter;
+	margin: 25px 10px;
+	text-transform: none;
+	color: #666;
+}
+
+ span.datum {
+	font-size: .9em;
+	margin: 20px 0 !important;
+	display: inline-block;
+}
+
+
+.fa-2x{
+	
+	font-size: 2.2em;
+	font-weight: 900 !important;
+	color: grey;
+	
+}
+.strelica{
+	margin-top: 10px;
+}
